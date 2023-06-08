@@ -1,0 +1,53 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "ProofOfLC": {
+        "@id": "",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "vocab": "https://github.com/edutomesco/schemas/blob/main/proof-of-lc-vocab.md#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "association": {
+            "@id": "vocab:association",
+            "@type": "xsd:string"
+          },
+          "draw_id": {
+            "@id": "vocab:draw_id",
+            "@type": "xsd:string"
+          },
+          "participation_donation": {
+            "@id": "vocab:participation_donation",
+            "@type": "xsd:string"
+          },
+          "participation_id": {
+            "@id": "vocab:participation_id",
+            "@type": "xsd:integer"
+          },
+          "participation_number_price": {
+            "@id": "vocab:participation_number_price",
+            "@type": "xsd:string"
+          },
+          "participation_numbers": {
+            "@id": "vocab:participation_numbers",
+            "@type": "xsd:string"
+          },
+          "participation_price": {
+            "@id": "vocab:participation_price",
+            "@type": "xsd:string"
+          },
+          "ticket_booklet_id": {
+            "@id": "vocab:ticket_booklet_id",
+            "@type": "xsd:string"
+          },
+        }
+      }
+    }
+  ]
+}
