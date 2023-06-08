@@ -3,7 +3,7 @@
     "type": "object",
     "$metadata": {
       "uris": {
-        "jsonLdContext": "https://raw.githubusercontent.com/edutomesco/schemas/main/proof-of-lc.jsonld",
+        "jsonLdContext": "https://raw.githubusercontent.com/edutomesco/schemas/main/proof-of-lc.json-ld",
         "jsonSchema": "https://raw.githubusercontent.com/edutomesco/schemas/main/proof-of-lc.json"
       }
     },
