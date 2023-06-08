@@ -121,6 +121,9 @@
             "type": "string",
             "format": "uri"
           },
+          "association": {
+            "type": "string"
+          },
           "draw_id": {
             "type": "string"
           },
