@@ -45,7 +45,7 @@
           "ticket_booklet_id": {
             "@id": "vocab:ticket_booklet_id",
             "@type": "xsd:string"
-          },
+          }
         }
       }
     }
