@@ -1,0 +1,49 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "ProofOfLC": {
+        "@id": "https://raw.githubusercontent.com/edutomesco/schemas/main/dgt_car_license.json-ld#DGTCarLicense",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "vocab": https://raw.githubusercontent.com/edutomesco/schemas/main/dgt_car_license-vocab.md",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "first_surname": {
+            "@id": "vocab:first_surname",
+            "@type": "xsd:string"
+          },
+          "second_surname": {
+            "@id": "vocab:second_surname",
+            "@type": "xsd:string"
+          },
+          "name": {
+            "@id": "vocab:name",
+            "@type": "xsd:string"
+          },
+          "birth_date": {
+            "@id": "vocab:birth_date",
+            "@type": "xsd:integer"
+          },
+          "country": {
+            "@id": "vocab:country",
+            "@type": "xsd:string"
+          },
+          "nif": {
+            "@id": "vocab:nif",
+            "@type": "xsd:string"
+          },
+          "license_type": {
+            "@id": "vocab:license_type",
+            "@type": "xsd:integer"
+          }
+        }
+      }
+    }
+  ]
+}
