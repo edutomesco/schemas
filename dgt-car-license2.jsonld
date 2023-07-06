@@ -14,8 +14,8 @@
           "type": "@type",
           "vocab": "https://raw.githubusercontent.com/edutomesco/schemas/main/dgt-car-license-vocab2.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
-          "license_type": {
-            "@id": "vocab:license_type",
+          "licenseType": {
+            "@id": "vocab:licenseType",
             "@type": "xsd:integer"
           }
         }
