@@ -106,7 +106,7 @@
         "type": "object",
         "required": [
           "id",
-          "license_type"
+          "licenseType"
         ],
         "properties": {
           "id": {
@@ -114,7 +114,7 @@
             "type": "string",
             "format": "uri"
           },
-          "license_type": {
+          "licenseType": {
             "type": "integer"
           }
         }
