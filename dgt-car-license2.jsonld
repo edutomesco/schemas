@@ -1,0 +1,25 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "DGTCarLicense": {
+        "@id": "https://raw.githubusercontent.com/edutomesco/schemas/main/dgt-car-license2.jsonld#DGTCarLicense",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "vocab": "https://raw.githubusercontent.com/edutomesco/schemas/main/dgt-car-license-vocab2.md#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "license_type": {
+            "@id": "vocab:license_type",
+            "@type": "xsd:integer"
+          }
+        }
+      }
+    }
+  ]
+}
