@@ -12,7 +12,7 @@
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://github.com/edutomesco/schemas/blob/main/dgt-car-license-vocab.md#",
+          "vocab": "https://raw.githubusercontent.com/edutomesco/schemas/main/dgt-car-license-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "first_surname": {
             "@id": "vocab:first_surname",
