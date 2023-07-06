@@ -3,7 +3,7 @@
     "type": "object",
     "$metadata": {
       "uris": {
-        "jsonLdContext": "https://raw.githubusercontent.com/edutomesco/schemas/main/dgt_car_license.json-ld",
+        "jsonLdContext": "https://raw.githubusercontent.com/edutomesco/schemas/main/dgt-car-license.jsonld",
         "jsonSchema": "https://raw.githubusercontent.com/edutomesco/schemas/main/dgt_car_license.json"
       }
     },
