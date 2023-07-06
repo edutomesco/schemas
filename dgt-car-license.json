@@ -4,7 +4,7 @@
     "$metadata": {
       "uris": {
         "jsonLdContext": "https://raw.githubusercontent.com/edutomesco/schemas/main/dgt-car-license.jsonld",
-        "jsonSchema": "https://raw.githubusercontent.com/edutomesco/schemas/main/dgt_car_license.json"
+        "jsonSchema": "https://raw.githubusercontent.com/edutomesco/schemas/main/dgt-car-license.json"
       }
     },
     "required": [
